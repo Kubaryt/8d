@@ -46,3 +46,7 @@ if DZIALANIA == 6:
 
     c = math.sqrt( a )
     print('Wynik to %f' % c)
+
+if DZIALANIA == 7:
+    
+    
