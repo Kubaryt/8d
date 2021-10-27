@@ -1,12 +1,23 @@
 import math
 DZIALANIA = 8
 
-a = float(input('Wpisz pierwsza liczbe '))
-b = float(input('Wpisz druga liczbe '))
+
+#WYBOR DZIALANIA
 
 while DZIALANIA >= 8:
 
-    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy | 7 - Średnia arytmetyczna'))
+    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy | 7 - Średnia arytmetyczna '))
+
+
+#WPROWADZANIE LICZB (0-3)
+
+if DZIALANIA <= 3:
+
+    a = float(input('Wprowadz pierwsza liczbe '))
+    b = float(input('Wprowadz druga liczbe '))
+
+
+#WYPROWADZANIE WYNIKU (0-3)
 
 if DZIALANIA == 0:
 
@@ -32,6 +43,16 @@ if DZIALANIA == 3:
     c = a / b
     print('Wynik dzielenia to: %f' % c )
 
+
+#WPROWADZANIE LICZBY (4-6)
+
+if DZIALANIA >= 4 & DZIALANIA != 7:
+
+    a = float(input('Wprowadz pierwsza liczbe '))
+
+
+#WYPROWADZANIE WYNIKU (0-3)
+
 if DZIALANIA == 4:
 
     c = a ** b
@@ -46,6 +67,9 @@ if DZIALANIA == 6:
     
     c = math.sqrt( a )
     print('Wynik to %f' % c)
+
+
+#SREDNIA ARYTMETYCZNA
 
 if DZIALANIA == 7:
 
