@@ -1,12 +1,12 @@
 import math
-DZIALANIA = 7
+DZIALANIA = 8
 
 a = float(input('Wpisz pierwsza liczbe '))
 b = float(input('Wpisz druga liczbe '))
 
-while DZIALANIA >= 7:
+while DZIALANIA >= 8:
 
-    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy '))
+    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy | 7 - Średnia arytmetyczna'))
 
 if DZIALANIA == 0:
 
@@ -43,10 +43,27 @@ if DZIALANIA == 5:
     print('Wynik to: %f' % c)
 
 if DZIALANIA == 6:
-
+    
     c = math.sqrt( a )
     print('Wynik to %f' % c)
 
 if DZIALANIA == 7:
+
+    b = 0
+    while b == 0:
+
+        b = int(input('Wprowadz ilosc liczb '))
     
+    i = b
+    r = 1
+    wynik = 0
+
+    while i >= 1:
+
+        a = float(input('Wprowadz liczbe po raz %g ' % r))
+        wynik = wynik + a
+        r = r + 1
+        i = i - 1
     
+    c = wynik / b
+    print('Wynik to: %f' % c)
