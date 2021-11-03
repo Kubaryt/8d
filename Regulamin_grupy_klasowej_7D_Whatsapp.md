@@ -36,4 +36,4 @@
     - Nieklasyfikowane:
       - Łamanie ustaleń dla społeczności, ustalonych przez Whatsapp.
 4. Załoga, ma zawsze rację.
-5. Jeżeli załoga nie ma racji, patrz punkt 5.
+5. Jeżeli załoga nie ma racji, patrz punkt 4.
