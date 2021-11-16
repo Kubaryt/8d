@@ -1,21 +1,38 @@
 import sys
 
 from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QMainWindow
 from PyQt5.QtWidgets import QLabel
 from PyQt5.QtWidgets import QWidget
+from PyQt5.QtWidgets import QGridLaylout
 app = QApplication(sys.argv)
 
-DZIALANIA = 4
+class Calculator(QMainWindow)
 
-
-#WYBOR DZIALANIA
-
-while DZIALANIA >= 4:
-    
-    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie '))
-
-
-
+    def __createbuttons(self):
+        self.buttons{}
+        buttonslaylout = QGridLaylout
+        buttons = {'1': (0,0),
+                   '2': (0,1),
+                   '3': (0,2),
+                   '+': (0,3),
+                   '4': (1,0),
+                   '5': (1,1),
+                   '6': (1,2),
+                   '-': (1,3),
+                   '7': (2,0),
+                   '8': (2,1),
+                   '9': (2,2),
+                   '*': (2,3),
+                   '0': (3,1),
+                   '=': (3,2),
+                   '/': (3,3),
+                  }
+        
+        def __createText(self):
+            self.
+        
+        
 if DZIALANIA == 0:
 
     a = int(input('Wpisz pierwsza liczbe '))
