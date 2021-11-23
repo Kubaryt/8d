@@ -67,11 +67,8 @@ if DZIALANIA == 3:
     #print('Wynik dzielenia to: %g' % c )
 
 
-window = QWidget()
-window.setWindowTitle('PyQt5 App')
-window.setGeometry(150, 150, 330, 130)
-window.move(60, 15)
-WynikMsg = QLabel('<h1>Wynik to: %f</h1>' % c, parent=window)
-WynikMsg.move(30, 50)
-window.show()
-sys.exit(app.exec_())
+def main():
+    pycalc = QApplication(sys.argv)
+    view = PyCalcUi()
+    view.show()
+    sys.exit(pycalc.exec_()
