@@ -1,9 +1,9 @@
-print('Obliczenie pola i obwodu prostokata')
+print('Obliczenie pola i obwodu prostokata\n')
 
-a = int(input('Podaj dlugosc pierwszego boku: '))
-b = int(input('Podaj dlugosc drugiego boku: '))
+a = float(input('Podaj dlugosc pierwszego boku '))
+b = float(input('Podaj dlugosc drugiego boku '))
 
 p = a * b
-o = 2 * a + 2 * b
+o = a * 2 + b * 2
 
-print('Pole prostokata wynosi: %d, a obwod: %d' % (p, o))
+print('\nPole prostokata wynosi: %f, a obwod: %f' % (p, o))
