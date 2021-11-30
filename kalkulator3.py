@@ -36,17 +36,14 @@ while loop:
     if DZIALANIA == 0:
 
         c = a + b
-        print('Wynik dodawania to: %f' %  c )
 
     if DZIALANIA == 1:
 
         c = a - b
-        print('Wynik odejmowania to: %f' %  c )
 
     if DZIALANIA == 2:
 
         c = a * b
-        print('Wynik mnozenia to: %f' %  c )
     
     if DZIALANIA == 3:
 
@@ -55,14 +52,13 @@ while loop:
             b = float(input('Wpisz druga liczbe '))
     
         c = a / b
-        print('Wynik dzielenia to: %f' % c )
 
 
     #WPROWADZANIE LICZBY (4-6)
 
     if DZIALANIA >= 4 and DZIALANIA != 7:
 
-        a = float(input('Wprowadz pierwsza liczbe '))
+        a = float(input('Wprowadz liczbe '))
 
 
     #WYPROWADZANIE WYNIKU (0-3)
@@ -70,17 +66,14 @@ while loop:
     if DZIALANIA == 4:
 
         c = a ** b
-        print('Wynik potegowania to: %f' % c)
 
     if DZIALANIA == 5:
 
         c = math.log( a )
-        print('Wynik to: %f' % c)
 
     if DZIALANIA == 6:
     
         c = math.sqrt( a )
-        print('Wynik to %f' % c)
 
 
     #SREDNIA ARYTMETYCZNA
@@ -104,7 +97,6 @@ while loop:
             i = i - 1
     
         c = wynik / b
-        print('Wynik to: %f' % c)
 
     #WYSWIETLANIE WYNIKU
     '''
@@ -117,7 +109,10 @@ while loop:
     window.show()
     sys.exit(app.exec_())
     '''
-
+    
+    print('Wynik to: %f' % c)
+    
     #POWTARZANIE
 
     loop = int(input('Aby zakończyć powtarzanie kodu wpisz 0: '))
+
