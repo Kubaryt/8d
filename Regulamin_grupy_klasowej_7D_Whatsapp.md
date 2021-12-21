@@ -22,7 +22,7 @@
       - Shitpost (Wrzucanie, co chwilę, filmów/memów/obrazów, bez kontekstu)
       - Nadmierny bez sensowny spam.
     - Zwykłe naruszenia:
-      - Roziwązywanie spraw prywatnych publicznie.
+      - Rozwiązywanie spraw prywatnych publicznie.
       - Wyzywanie.
       - Pomówienia
     - Większe naruszenia:
