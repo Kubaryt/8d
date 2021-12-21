@@ -11,7 +11,7 @@
 # Zasady:
 0. Nie znajmość regulaminu nie zwalnia z jego przestrzegania
 1. Załoga może zmienić regulamin, w każdej chwili, bez podania przyczyny.
-2. Kary, przewidywane za punkt 3:
+2. Kary, przewidywane za punkt 3; kary mogą lecz nie muszą ograniczać się do podanych poniżej:
     - Mały warn (W przypadku, lekkich naruszeń), 3 małe warny = zwykły warn
     - Warn (W przypadku, zwykłych naruszeń), 3 warny = ban na 7 dni
     - Ban na 7 dni (W przypadku, większych naruszeń), 3 bany na 7 dni = ban na miesiąc
@@ -35,5 +35,6 @@
       - Nagonka na administracje.
     - Nieklasyfikowane:
       - Łamanie ustaleń dla społeczności, ustalonych przez Whatsapp.
+      - Uznane przez administację za szkodliwe, ale nie wymienione powyżej.
 4. Załoga, ma zawsze rację.
 5. Jeżeli załoga nie ma racji, patrz punkt 4.
