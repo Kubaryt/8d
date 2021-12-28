@@ -1,5 +1,8 @@
 import math
-
+'''
+import QtQuick 2.3
+import QtQuick.Controls 1.4
+'''
 '''
 import sys
 
@@ -11,8 +14,7 @@ app = QApplication(sys.argv)
 
 loop = 1
 
-while loop:
-
+def Dzialania():
     DZIALANIA = 8
 
 
@@ -23,7 +25,7 @@ while loop:
         DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy | 7 - Średnia arytmetyczna '))
 
 
-    #WPROWADZANIE LICZB (0-3)
+    #WPROWADZANIE LICZB (0-4)
 
     if DZIALANIA <= 3:
 
@@ -31,7 +33,7 @@ while loop:
         b = float(input('Wprowadz druga liczbe '))
 
 
-    #WYPROWADZANIE WYNIKU (0-3)
+    #DZIALANIA (0-4)
 
     if DZIALANIA == 0:
 
@@ -48,33 +50,32 @@ while loop:
     if DZIALANIA == 3:
 
         while b == 0:
-    
-            b = float(input('Wpisz druga liczbe '))
-    
+
+            b = float(input('Wprowadz druga liczbe '))
+
         c = a / b
-
-
-    #WPROWADZANIE LICZBY (4-6)
-
-    if DZIALANIA >= 4 and DZIALANIA != 7:
-
-        a = float(input('Wprowadz liczbe '))
-
-
-    #WYPROWADZANIE WYNIKU (0-3)
 
     if DZIALANIA == 4:
 
-        c = a ** b
+        c = a ** b        
+
+    #WPROWADZANIE LICZBY (5-6)
+
+    if DZIALANIA >= 5 and DZIALANIA != 7:
+
+        a = float(input('Wprowadz pierwsza liczbe '))
+
+
+    #DZIALANIA (5-6)
+
 
     if DZIALANIA == 5:
 
-        c = math.log( a )
+        math.log( a )
 
     if DZIALANIA == 6:
     
-        c = math.sqrt( a )
-
+        math.sqrt( a )
 
     #SREDNIA ARYTMETYCZNA
 
@@ -97,6 +98,12 @@ while loop:
             i = i - 1
     
         c = wynik / b
+    
+    return c
+
+while loop:
+
+    c = Dzialania()
 
     #WYSWIETLANIE WYNIKU
     '''
@@ -109,10 +116,9 @@ while loop:
     window.show()
     sys.exit(app.exec_())
     '''
-    
-    print('Wynik to: %f' % c)
-    
+
+    print('Wynik to: %f' %  c)
+
     #POWTARZANIE
 
     loop = int(input('Aby zakończyć powtarzanie kodu wpisz 0: '))
-
