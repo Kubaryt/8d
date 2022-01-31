@@ -16,6 +16,7 @@
     - Ban na 7 dni (W przypadku, większych naruszeń), 3 bany na 7 dni = ban na miesiąc
     - Ban na miesiąc (W przypadku, największych naruszeń)
     - Małe warny resetowane są co dzień, warny, co tydzień, natomiast bany na 7 dni co miesiąc
+    - Załoga może zmienić system kar dla danego użytkownika bez podania przyczyny.
 3. Naruszenia:
     - Lekkie naruszenia:
       - Shitpost (Wrzucanie, co chwilę, filmów/memów/obrazów, bez kontekstu)
