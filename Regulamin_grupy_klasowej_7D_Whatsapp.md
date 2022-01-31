@@ -5,7 +5,6 @@
     - Administator (Dalej nazywany Adminem lub załogą)
       - Jakub Kozioł (Twórca)
       - Jakub Starzyk (Zastępca)
-      - Wiktoria Bielecka (Admin)
  - Każdy Członek, korzystając grupy, zobowiązuje się przestrzegać regulaminu.
 
 # Zasady:
