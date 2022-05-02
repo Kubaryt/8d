@@ -20,7 +20,7 @@
 3. Naruszenia:
     - Lekkie naruszenia:
       - Shitpost (Wrzucanie, co chwilę, filmów/memów/obrazów, bez kontekstu)
-      - Nadmierny bez sensowny spam.
+      - Nadmierny bezsensowny spam.
     - Zwykłe naruszenia:
       - Rozwiązywanie spraw prywatnych publicznie.
       - Wyzywanie.
