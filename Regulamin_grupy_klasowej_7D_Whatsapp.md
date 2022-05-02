@@ -1,11 +1,11 @@
 # Ustalenia ogólne:
- - Grupa klasowa "7d" na Whatsapp (Dalej nazywana grupą) została utworzona przez Jakuba Kozioła (Dalej nazywanego twórcą) i nie jest to oficjalna szkolna grupa.
+ - Grupa klasowa "7d" na Whatsapp (Dalej nazywana grupą) została utworzona przez Jakuba Kozioła (Dalej nazywanego twórcą) i nie jest to oficjalna szkolna grupa klasowa.
  - Na grupie są dwa typy użytkowników.
     - Zwykły uczestnik (Dalej nazywany członkiem)
     - Administator (Dalej nazywany Adminem lub załogą)
       - Jakub Kozioł (Twórca)
       - Jakub Starzyk (Zastępca)
- - Każdy Członek, korzystając grupy, zobowiązuje się przestrzegać regulaminu.
+ - Każdy członek, korzystając grupy, zobowiązuje się przestrzegać regulaminu.
 
 # Zasady:
 0. Nie znajmość regulaminu nie zwalnia z jego przestrzegania
@@ -28,7 +28,7 @@
     - Większe naruszenia:
       - Obraza administracji.
       - Wielkrotne negowanie kar.
-      - Wrzucanie treści NFSW (nagość itp.)
+      - Wrzucanie treści NFSW/NFSL
     - Największe naruszenia
       - Wrzucanie filmów z wykorzystywaniem dzieci.
       - Dyskryminacja.
@@ -36,5 +36,7 @@
     - Nieklasyfikowane:
       - Łamanie ustaleń dla społeczności, ustalonych przez Whatsapp.
       - Uznane przez administację za szkodliwe, ale nie wymienione powyżej.
-4. Załoga, ma zawsze rację.
-5. Jeżeli załoga nie ma racji, patrz punkt 4.
+4. Admini mają pełne, niewyłączne i niezbywalne prawo do rozpowszechniania oraz kopiowania treści udostępnianych na grupie.
+5. Załoga ma prawo do łamania regulaminu grupy.
+6. Załoga, ma zawsze rację.
+7. Jeżeli załoga nie ma racji, patrz punkt 4.
