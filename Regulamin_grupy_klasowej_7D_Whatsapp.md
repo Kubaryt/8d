@@ -20,7 +20,7 @@
 3. Naruszenia:
     - Lekkie naruszenia:
       - Shitpost (Wrzucanie, co chwilę, filmów/memów/obrazów, bez kontekstu)
-      - Nadmierny bezsensowny spam.
+      - Nadmierny, bezsensowny spam.
     - Zwykłe naruszenia:
       - Rozwiązywanie spraw prywatnych publicznie.
       - Wyzywanie.
@@ -35,8 +35,8 @@
       - Nagonka na administracje.
     - Nieklasyfikowane:
       - Łamanie ustaleń dla społeczności, ustalonych przez Whatsapp.
-      - Uznane przez administację za szkodliwe, ale nie wymienione powyżej.
+      - Uznane przez administrację za szkodliwe, ale nie wymienione powyżej.
 4. Admini mają pełne, niewyłączne i niezbywalne prawo do rozpowszechniania oraz kopiowania treści udostępnianych na grupie.
 5. Załoga ma prawo do łamania regulaminu grupy.
 6. Załoga, ma zawsze rację.
-7. Jeżeli załoga nie ma racji, patrz punkt 4.
+7. Jeżeli załoga nie ma racji, patrz punkt 6.
