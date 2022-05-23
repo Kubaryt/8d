@@ -25,6 +25,7 @@
       - Rozwiązywanie spraw prywatnych publicznie.
       - Wyzywanie.
       - Pomówienia
+      - Wysyłanie reklam Shopee.
     - Większe naruszenia:
       - Obraza administracji.
       - Wielkrotne negowanie kar.
