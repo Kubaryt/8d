@@ -1,5 +1,5 @@
 # Ustalenia ogólne:
- - Grupa klasowa "7d" na Whatsapp (Dalej nazywana grupą) została utworzona przez Jakuba Kozioła (Dalej nazywanego twórcą) i nie jest to oficjalna szkolna grupa klasowa.
+ - Grupa klasowa "8d" na Whatsapp (Dalej nazywana grupą) została utworzona przez Jakuba Kozioła (Dalej nazywanego twórcą) i nie jest to oficjalna szkolna grupa klasowa.
  - Na grupie są dwa typy użytkowników.
     - Zwykły uczestnik (Dalej nazywany członkiem)
     - Administator (Dalej nazywany Adminem lub załogą)
@@ -8,7 +8,7 @@
  - Każdy członek, korzystając grupy, zobowiązuje się przestrzegać regulaminu.
 
 # Zasady:
-0. Nie znajmość regulaminu nie zwalnia z jego przestrzegania
+0. Nie znajomość regulaminu nie zwalnia z jego przestrzegania
 1. Załoga może zmienić regulamin, w każdej chwili, bez podania przyczyny.
 2. Kary, przewidywane za punkt 3; kary mogą lecz nie muszą ograniczać się do podanych poniżej:
     - Mały warn (W przypadku, lekkich naruszeń), 3 małe warny = zwykły warn
@@ -28,7 +28,7 @@
       - Wysyłanie reklam Shopee.
     - Większe naruszenia:
       - Obraza administracji.
-      - Wielkrotne negowanie kar.
+      - Wielokrotne negowanie kar.
       - Wrzucanie treści NFSW/NFSL
     - Największe naruszenia
       - Wrzucanie filmów z wykorzystywaniem dzieci.
@@ -39,5 +39,5 @@
       - Uznane przez administrację za szkodliwe, ale nie wymienione powyżej.
 4. Admini mają pełne, niewyłączne i niezbywalne prawo do rozpowszechniania oraz kopiowania treści udostępnianych na grupie.
 5. Załoga ma prawo do łamania regulaminu grupy.
-6. Załoga, ma zawsze rację.
+6. Załoga ma zawsze rację.
 7. Jeżeli załoga nie ma racji, patrz punkt 6.
